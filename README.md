@@ -1,3 +1,3 @@
 # FIre_detection
-## \why
-ddd
+## Caba_third project
+Fire detection algorithm building
