@@ -53,6 +53,16 @@ def background(cap):
 
 # In[ ]:
 
+def frame_extractor(video_path, save_path):
+    cap = cv2.VideoCapture(video_path)
+    success, image = cap.read()
 
+    count=0
+
+    while success :
+        cv2.imwrite(save_path+'/%d.jpg' % count, image)
+        success, image = cap.read()
+        print("saved image %d.jpg" % count)
+        count +=1
 
 
