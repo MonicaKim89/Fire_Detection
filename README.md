@@ -1,3 +1,5 @@
+![Uploading KakaoTalk_20210531_123614062.png…]()
+
 #  YOLO  Object Detector를 활용한 화재탐지 시스템 개발
 
 ### CCTV영상처리를 통해 FIRE & SMOKE 객체 검출
