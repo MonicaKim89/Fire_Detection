@@ -1,4 +1,5 @@
-![Uploading KakaoTalk_20210531_123614062.png…]()
+![KakaoTalk_20210531_124413788](https://user-images.githubusercontent.com/79948405/120136815-f5416880-c20d-11eb-8947-3f6304fb9f17.jpg)
+
 
 #  YOLO  Object Detector를 활용한 화재탐지 시스템 개발
 
