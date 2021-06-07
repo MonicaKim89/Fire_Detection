@@ -10,6 +10,7 @@
   - CNN 기반의 VGG16, Resnet을 활용한 분류모델
   - YOLO v3, v5, Scaled v4,
   - openCV 
+  
 솔루션이 적용되었습니다
 
 
