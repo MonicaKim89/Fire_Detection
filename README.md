@@ -1,7 +1,8 @@
 ![KakaoTalk_20210531_124413788](https://user-images.githubusercontent.com/79948405/120136815-f5416880-c20d-11eb-8947-3f6304fb9f17.jpg)
 
 
-#  YOLO  Object Detector를 활용한 화재탐지 시스템 개발
+# 1. 프로젝트 주제
+# YOLO  Object Detector를 활용한 화재탐지 시스템 개발
 
 ### CCTV영상처리를 통해 FIRE & SMOKE 객체 검출
 가장 보편화된 AHD(Analog High Definition)카메라로 촬영된 영상에서 불과 연기를 탐지하는 것이 주요 목표입니다
