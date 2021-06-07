@@ -4,6 +4,13 @@
 #  YOLO  Object Detector를 활용한 화재탐지 시스템 개발
 
 ### CCTV영상처리를 통해 FIRE & SMOKE 객체 검출
+가장 보편화된 AHD(Analog High Definition)카메라로 촬영된 영상에서 불과 연기를 탐지하는 것이 주요 목표입니다
+
+### 솔루션 모색
+CNN 기반의 VGG16, Resnet을 활용한 분류모델
+YOLO v3, v5, Scaled v4,
+openCV 
+솔루션이 적용되었습니다
 
 ### Scaled YOLOv4를 활용
 
