@@ -15,6 +15,22 @@ openCV
 
 솔루션이 적용되었습니다
 
+
+### 학습용 이미지
+구글링을 통해 fire and smoke dataset 검색어로 오픈소스데이터를 사용했습니다
+http://smoke.ustc.edu.cn/datasets.html
+
+에 들어가셔서 원하시는 데이터셋을 선택한 후 별도의 annotation 작업을 진행하셔도 좋습니다
+
+
+### 솔루션별 문제점
+
+#### Resnet, VGG16
+
+
+
+
+
 ### Scaled YOLOv4를 활용
 
 ### 소감
